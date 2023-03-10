@@ -1,0 +1,54 @@
+body{
+  background-size: 100%;
+}
+
+.trasparenza{
+  background: #000000;
+  opacity: 0.3;
+  width: 1000px;
+  height: 700px;
+  align-items: center;
+  margin: auto;
+  margin-top: 50px;
+}
+
+#title{
+  display: block;
+  font-size: 15px;
+  color: lime;
+}
+
+header, nav{
+  text-align: center;
+  margin: 30px;
+}
+
+img{
+  max-width: 20%;
+  height: auto;
+  border: 10px;
+  margin-top: 20px
+}
+
+#title{
+  color: lime;
+}
+
+.button{
+  padding: 10px;
+  background-color: lime;
+  align-items: center;
+}
+
+#nome-gino22{
+  display: inline-block;
+}
+
+#via-gino22, #state-gino22{
+  display:block;
+}
+
+.lista-monopattini{
+  color: white;
+  margin: 50px;
+}
